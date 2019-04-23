@@ -1,0 +1,8 @@
+<resources>
+    <string name="main_act">SEND_GET</string>
+    <string name="sub_act">SEND_POST</string>
+    <string name="ip" >IP Address</string>
+    <string name="in_str">Input Message</string>
+    <integer name="GET">0</integer>
+    <integer name="POST" >1</integer>
+</resources>
